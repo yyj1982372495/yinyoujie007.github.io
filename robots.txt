@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yinyoujie007.github.io//sitemap.xml
